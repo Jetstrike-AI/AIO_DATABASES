@@ -1,0 +1,15 @@
+{
+  "plug-in_categorys": [
+    "Synth",
+    "Master"
+  ],
+  "plug-in_select": {
+    "Synth": [
+      "Serum"
+    ],
+    "Master": [
+      "Ozone",
+      "Soothe"
+    ]
+  }
+}

@@ -1,1 +1,6 @@
-{"ver. 0.0.1-ALPHA":"https://raw.githubusercontent.com/Jetstrike-AI/AIO_DATABASES/main/new_main.exe"}
+{
+  "ver. 0.0.2-ALPHA": {
+    "main_file": "https://raw.githubusercontent.com/Jetstrike-AI/AIO_DATABASES/Jetstrike-AI-patch-1/versions/ver-0.0.2-alpha/new_main.exe",
+    "config_file": "https://raw.githubusercontent.com/Jetstrike-AI/AIO_DATABASES/Jetstrike-AI-patch-1/versions/ver-0.0.2-alpha/config.json"
+  }
+}
